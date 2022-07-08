@@ -1,5 +1,5 @@
 ﻿# Infinity Clock
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+An infinity clock is a clock including an ilusion that make lights look as if it goes on for forever.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
