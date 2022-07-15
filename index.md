@@ -18,6 +18,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
 
-[![First Milestone]<iframe width="560" height="315" src="https://www.youtube.com/embed/4FBheR3g7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FBheR3g7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My first milestone is including all the components of the Clock together. In this case, i can either could the seconds in the clock or change the colors of the clock. A button is wired to the Arduino send in a signal to allow the light to become a different color for a set amount of time, in my milestone video, 8 seconds. This code helps me figure out how to cotinue with my next step, adding the hour and minutes. For my "time" part, I wired the leds to the arduino along with a clock device, "HW-084". Then I put in a code which allowed the pixels to pop up one by one and when it goes past 60, the number that pops up goes back to 1.
