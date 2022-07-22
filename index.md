@@ -39,7 +39,8 @@ My first milestone is including all the components of the Clock together. In thi
 
 # Code
 This is the code that I used:
-cp```
+
+```cp
 #include <Wire.h>
 #include <ds3231.h>
  
@@ -169,5 +170,4 @@ void loop() {
     delay(1000);
   }
 }  
-
 ```
