@@ -37,8 +37,8 @@ My first milestone is including all the components of the Clock together. In thi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FBheR3g7aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Material List
-| **Material** | **Qty** | **Cost** | **Wher to find** |
-|:--:|:--:|:--:|:--:| 
+| **Material** | **Qty** | **Cost** |
+|:--:|:--:|:--:|
 | Aligator Clips | 2 | $2.60 |
 | Arduino Uno Board | 1 | $27.60 |
 | Breadboard	| 1	| $6.75	|
