@@ -177,4 +177,5 @@ Some tips that could help you complete this project include:
 - Using the breadboard ground and voltage
 - Use aligator clips for the LED wire part (unless you are sautering of course)
 - Use a hot glue gun that actually works (mine kept leaking the glue out)
-- Be pround of what you make, it's your creation so be proud of it!
+- You can alway ask for advice
+- Be proud of what you make, it's your creation so be proud of it!
